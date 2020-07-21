@@ -9,6 +9,10 @@
 
 body{
     scroll-snap-type: proximity;
+   
+}
+::-webkit-scrollbar{
+    width: 6px;
 }
 
 .hero-bg{
@@ -25,6 +29,11 @@ body{
     font-family: "Montserrat";
     font-size: larger;
 }
+
+.hero-bg h1{
+    font-family: "Sacramento", cursive;
+}
+
 .lines{
     width: 70vw;
     height: 0.3px;
