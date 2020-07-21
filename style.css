@@ -16,7 +16,7 @@ body{
 }
 
 .hero-bg{
-    background: url("/images/bg.jpg") rgba(19, 13, 13, 0.849);
+    background: url("https://cdonsadv.sirv.com/Images/bg-min.webp") rgba(19, 13, 13, 0.849);
     background-position: center;
     background-blend-mode: multiply;
     height: 100vh;
