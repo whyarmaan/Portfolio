@@ -162,7 +162,7 @@ i.fa.fa-github:hover{
 .techs-use .title-language{
     padding: 30px;
     font-size: 40px;
-    color: white;
+    color: #1b262c;
     font-family: "Sacramento", cursive;
 }
 .ul-wrapper{
@@ -172,7 +172,7 @@ i.fa.fa-github:hover{
     list-style-type: none;
 }
 .ul-wrapper ul li{
-    color: white;
+    color: #1b262c;
     font-weight: bolder;
     font-family: "Montserrat";
     font-size: 30px;
